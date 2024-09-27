@@ -1,0 +1,2 @@
+name = "silent-conjurer"
+assets = ["src/config.toml"]
